@@ -16,4 +16,4 @@
 
 ## Open Refine Scripts
 
-[Diversity Data Cleaner Script](DataCleaner-Script.json)
+[Diversity Data Cleaner Script](DataCleaner-Script_json.js)
